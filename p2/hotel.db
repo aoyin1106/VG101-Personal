@@ -1,0 +1,291 @@
+[room 101]
+type = dormitory
+vacant = 6
+
+[room 102]
+type = dormitory
+vacant = 6
+
+[room 103]
+type = family
+vacant = 1
+
+[room 104]
+type = family
+vacant = 1
+
+[room 105]
+type = single
+vacant = 1
+
+[room 106]
+type = single
+vacant = 1
+
+[room 107]
+type = single
+vacant = 1
+
+[room 108]
+type = single
+vacant = 1
+
+[room 109]
+type = double
+vacant = 1
+
+[room 110]
+type = double
+vacant = 1
+
+[room 111]
+type = double
+vacant = 1
+
+[room 112]
+type = double
+vacant = 1
+
+[room 201]
+type = dormitory
+vacant = 5
+visitors = 1
+name1 = John Alberts
+id1 = P1L5M1
+arrival1 = 13/4/2018
+key1 = 1
+breakfast1 = 0
+nights1 = 0
+price1 = 149
+
+[room 202]
+type = dormitory
+vacant = 4
+visitors = 2
+name1 = Aiden Alden
+id1 = P3OJSY
+arrival1 = 12/4/2018
+key1 = 1
+breakfast1 = 1
+nights1 = 1
+price1 = 85
+name2 = Michael Albro
+id2 = PF8A32
+arrival2 = 12/4/2018
+key2 = 1
+breakfast2 = 0
+nights2 = 1
+price2 = 70
+
+[room 203]
+type = family
+vacant = 0
+name1 = Aiden Alban
+id1 = PRR0E6
+arrival1 = 12/4/2018
+key1 = 1
+breakfast1 = 0
+nights1 = 1
+price1 = 315
+name2 = William Albro
+id2 = F41Y9K
+arrival2 = 12/4/2018
+key2 = 1
+breakfast2 = 0
+nights2 = 1
+price2 = 0
+name3 = Anthony Alcott
+id3 = W89BEU
+arrival3 = 12/4/2018
+key3 = 1
+breakfast3 = 1
+nights3 = 1
+price3 = 0
+
+[room 204]
+type = family
+vacant = 1
+
+[room 205]
+type = single
+vacant = 1
+
+[room 206]
+type = single
+vacant = 1
+
+[room 207]
+type = single
+vacant = 1
+
+[room 208]
+type = single
+vacant = 1
+
+[room 209]
+type = double
+vacant = 1
+
+[room 210]
+type = double
+vacant = 1
+
+[room 211]
+type = double
+vacant = 1
+
+[room 212]
+type = double
+vacant = 1
+
+[room 301]
+type = dormitory
+vacant = 6
+
+[room 302]
+type = dormitory
+vacant = 6
+
+[room 303]
+type = family
+vacant = 1
+
+[room 304]
+type = family
+vacant = 1
+
+[room 305]
+type = single
+vacant = 1
+
+[room 306]
+type = single
+vacant = 1
+
+[room 307]
+type = single
+vacant = 1
+
+[room 308]
+type = single
+vacant = 1
+
+[room 309]
+type = double
+vacant = 1
+
+[room 310]
+type = double
+vacant = 1
+
+[room 311]
+type = double
+vacant = 1
+
+[room 312]
+type = double
+vacant = 1
+
+[room 401]
+type = dormitory
+vacant = 6
+
+[room 402]
+type = dormitory
+vacant = 6
+
+[room 403]
+type = family
+vacant = 1
+
+[room 404]
+type = family
+vacant = 1
+
+[room 405]
+type = single
+vacant = 1
+
+[room 406]
+type = single
+vacant = 1
+
+[room 407]
+type = single
+vacant = 1
+
+[room 408]
+type = single
+vacant = 0
+name1 = Noad Albury
+id1 = PR5TGT
+arrival1 = 12/4/2018
+key1 = 1
+breakfast1 = 0
+nights1 = 1
+price1 = 120
+
+[room 409]
+type = double
+vacant = 1
+
+[room 410]
+type = double
+vacant = 1
+
+[room 411]
+type = double
+vacant = 1
+
+[room 412]
+type = double
+vacant = 1
+
+[room 501]
+type = dormitory
+vacant = 6
+
+[room 502]
+type = dormitory
+vacant = 6
+
+[room 503]
+type = family
+vacant = 1
+
+[room 504]
+type = family
+vacant = 1
+
+[room 505]
+type = single
+vacant = 1
+
+[room 506]
+type = single
+vacant = 1
+
+[room 507]
+type = single
+vacant = 1
+
+[room 508]
+type = single
+vacant = 1
+
+[room 509]
+type = double
+vacant = 1
+
+[room 510]
+type = double
+vacant = 1
+
+[room 511]
+type = double
+vacant = 1
+
+[room 512]
+type = double
+vacant = 1
+
